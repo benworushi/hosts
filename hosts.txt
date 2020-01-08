@@ -8,10 +8,10 @@
 59.37.80.225 img.soulapp.cn
 113.96.109.92 china-img.soulapp.cn
 47.99.49.229 api-user.soulapp.cn
-g1.tagtic.cn 	
-img.adnyg.com 	
-img.adnyg.com.w.kunlungr.com 	
-log.tagtic.cn 	
-pgdt.ugdtimg.com 	
-sdownload.stargame.com 	
-ulogs.umeng.com
+||g1.tagtic.cn 	
+||img.adnyg.com 	
+||img.adnyg.com.w.kunlungr.com 	
+||log.tagtic.cn 	
+||pgdt.ugdtimg.com 	
+||sdownload.stargame.com 	
+||ulogs.umeng.com
