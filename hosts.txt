@@ -15,3 +15,6 @@
 ||pgdt.ugdtimg.com^ 	
 ||sdownload.stargame.com^ 	
 ||ulogs.umeng.com^
+||ad.12306.cn^$important
+14.215.177.39 m.baidu.com
+14.215.177.39 www.baidu.com
